@@ -17,3 +17,67 @@ li {
 }
 
 /* ADD CSS BELOW */
+body{
+  margin:20px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bangers",cursive;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+
+}
+
+h2 {
+  text-align:left ;
+  margin-bottom: 10px;
+  margin-top:10px;
+  font-size: 1.5em;
+}
+
+h3{
+  text-align:center;
+  font-size: 1.0em;
+}
+
+.row {
+
+  display:flex;
+  
+}
+
+.col {
+  
+  border: 2.0px;
+  border-style: dashed;
+  padding: 10px;
+  background-color:lightgray;
+  list-style: none;
+  margin-right: 20px;
+
+}
+
+.image ,.images{
+  height:150px;
+  margin:0px;
+  display: flex;
+  
+}
+
+.cato{
+  display:flex;
+}
+
+.dogo{
+  display:flex;
+}
+
+
+
