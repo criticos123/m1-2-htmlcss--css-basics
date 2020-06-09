@@ -1,11 +1,15 @@
-p {
+p{
+    margin: 0px;   
 }
-
 .one {
+    background-color: pink;
 }
 
 .two {
+    background-color: violet;
 }
 
 .three {
+    font-size: 5em;  
 }
+
