@@ -10,8 +10,13 @@
   font-size: 1.5rem;
 }
 
+h2{
+  font-size: 12px;
+}
+
 div {
   background-color: gray;
+  font-size:12px;
 }
 
 
