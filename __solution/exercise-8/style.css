@@ -1,17 +1,23 @@
 img {
-  max-width: 300px;
+  display: block;
 }
 
 .img1 {
+  display: inline-block;
 }
 
 .img2 {
   visibility: hidden;
+  width:0%
+  
+
 }
 
 .img3 {
   visibility: hidden;
+  width:0%
 }
 
 .img4 {
+  display: inline-block;
 }
