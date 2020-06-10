@@ -1,5 +1,6 @@
 img {
   max-width: 300px;
+<<<<<<< HEAD
   display: block;
   margin-right: 250px;
 }
@@ -7,16 +8,38 @@ img {
 .img1 {
   
   display:inline-block;
+=======
+  display:block;
+  margin-right: 250px;
+  
+}
+
+.img1{
+  display: inline-block;
+    
+>>>>>>> 32f1bacfaa4cfde79ec1b85b672aa7b79fc1f942
 }
 
 .img2 {
   display:none;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 32f1bacfaa4cfde79ec1b85b672aa7b79fc1f942
 }
 
 .img3 {
   display:none;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 32f1bacfaa4cfde79ec1b85b672aa7b79fc1f942
 }
 
 .img4 {
   display: inline-block;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 32f1bacfaa4cfde79ec1b85b672aa7b79fc1f942
 }
