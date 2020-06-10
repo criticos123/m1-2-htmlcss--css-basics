@@ -1,15 +1,21 @@
 img {
   max-width: 300px;
+  display: block;
+  margin-right: 250px;
 }
 
 .img1 {
+  display:inline-block;
 }
 
 .img2 {
+  display:block;
 }
 
 .img3 {
+  display:block;
 }
 
 .img4 {
+  display: inline-block;
 }
