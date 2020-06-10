@@ -3,5 +3,18 @@ body {
 }
 
 button {
-  /* Solve me */
-}
+    background-color: blue;
+    padding:30px 40px;
+    border-radius:10px; 
+    border: 0px solid white;
+    color: white;
+  
+  }
+  
+  button:hover {
+    background-color: darkblue;
+    border:1px solid black;
+    padding: 20px;
+
+  }
+
